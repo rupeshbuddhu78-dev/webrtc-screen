@@ -1,0 +1,5 @@
+Render Environment:
+MONGODB_URI=mongodb+srv://USER:PASS@cluster.../parent_control?retryWrites=true&w=majority
+
+After deploy: npm install && restart
+Look for: MongoDB connected
